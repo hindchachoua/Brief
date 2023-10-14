@@ -17096,3 +17096,17 @@ button.owl-next {
 /* //pagination blog page */
 
 /*# sourceMappingURL=style-freedom.css.map */
+.grid-container {
+  margin: 0% 10%;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color:#062c33;
+  padding: 5px;
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 50px;
+  font-size: 200px;
+  text-align: left;
+}
